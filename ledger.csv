@@ -1,0 +1,2 @@
+id,date,customer,inr_paid,usd_received,market_rate,realized_rate,value_at_market_inr,profit_inr,notes,profit_usd
+,2025-08-24,me,10000.0,100.0,,90.0,,-1000.0000000000002,,-11.111111111111114
